@@ -21,6 +21,6 @@ O projeto é inspirado em instituições de caridade, que realizam trabalhos mui
 Felizmente estou indo bem e quero fazer uma semana ainda melhor que a anterior, porque afinal, como o mesmo nome diz, devemos estar sempre em busca do próximo nível e ser melhores a cada dia!</p>
 
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você
+
 
 
