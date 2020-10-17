@@ -21,6 +21,10 @@ O projeto é inspirado em instituições de caridade, que realizam trabalhos mui
 Felizmente estou indo bem e quero fazer uma semana ainda melhor que a anterior, porque afinal, como o mesmo nome diz, devemos estar sempre em busca do próximo nível e ser melhores a cada dia!</p>
 
 
+<h2>Layout</h2>
+Você pode visualizar o layout do projeto através dos links abaixo:
+<a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web ">Layout Web</a>.
+<p>Lembrando que você precisa ter uma conta no Figma para acessá-lo.</P>
 
 
 
