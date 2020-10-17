@@ -1,11 +1,8 @@
-<h1>Next Level Week, terceira edição, projeto "Happy".</h1>
+<h1 text-aling="center">Next Level Week, terceira edição, projeto "Happy".<img src="./public/images/logo.svg"></h1>
 
 <p>O projeto Happy, desenvolvido durante a Next Level Week, da Rocketseat , de 12 a 18 de outubro.
 O projeto é inspirado em instituições de caridade, que realizam trabalhos muito importantes no mundo. E tem como objetivo incentivar as crianças a visitar casas de acolhimento, o que é uma coisa linda ver a felicidade das crianças.</p>
-
-
-
-
+<img src="./public/images/happy.png">
 
 <h1> Tecnologias</h1>
 <strong>Esse projeto foi desenvolvido utilizando as seguintes tecnologias:</strong>
