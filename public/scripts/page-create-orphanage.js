@@ -80,13 +80,15 @@ function toggleSelect(event) {
     input.value = button.dataset.value
 
 }
-// desafio
-/*function validate(event) {
+//desafio
 
-   const needLatAndLng = true
-   if(needLatAndLng){
-       event.preventDefault()
-       alert("selecione um ponto no mapa")
-   }
+function validate(event) {
+    // validar preenchimento de lat e lng
+    const verification = document.querySelector('.map-container input');
 
-}*/
+    if (verification.value == "") {
+        event.preventDefault();
+        alert("Selecione um local  no mapa!");
+    }
+
+}
